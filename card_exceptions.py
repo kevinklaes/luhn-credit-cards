@@ -1,0 +1,4 @@
+class CardError(Exception):
+    pass
+
+
